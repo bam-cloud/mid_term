@@ -1,5 +1,8 @@
 # mid_term
 
+Demo Video 
+https://youtu.be/7-q0-xLgW2A
+
 Use of Design Patterns
 * Consistent Structure: Each plugin is organized within its own directory, ensuring a uniform structure. This consistency enhances maintainability and improves the overall understanding of the project's layout.
 * DRY Principle (Don't Repeat Yourself): The code eliminates redundant logic and unnecessary repetition. For instance, in the CalcCommand and HistoryCommand classes, functionalities are encapsulated within dedicated methods, preventing duplication across different sections of the code.
